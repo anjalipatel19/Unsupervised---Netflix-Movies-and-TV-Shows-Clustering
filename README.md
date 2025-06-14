@@ -29,7 +29,7 @@ The analysis was conducted on a dataset containing \~12 columns and thousands of
   * `matplotlib`, `seaborn`, `plotly` – visualizations
   * `sklearn` – TF-IDF, PCA, clustering models
   * `scipy` – dendrograms and hierarchical clustering
-  * `nltk` – natural language processing (if used)
+  * `nltk` – natural language processing
 
 ## Key Insights
 
@@ -77,6 +77,7 @@ Below are some visualizations from the analysis:
 
 7. **Agglomerative Clustering Dendrogram & Histogram**
    ![7](https://github.com/user-attachments/assets/f215bfaf-2d61-40b9-b98a-d40be6750ede)
+   
    ![71](https://github.com/user-attachments/assets/9b57a45a-c704-4eda-a6af-45270c4c1ff3)
    Tree structure that suggests 7 natural groupings based on content metadata.
 
